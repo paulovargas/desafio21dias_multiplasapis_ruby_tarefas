@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_evento: 1
+  titulo: MyString
+  descricao: MyText
+  situacao: one
+  data_criacao: 2022-06-26 21:43:59
+  data_atualizacao: 2022-06-26 21:43:59
+
+two:
+  id_evento: 1
+  titulo: MyString
+  descricao: MyText
+  situacao: two
+  data_criacao: 2022-06-26 21:43:59
+  data_atualizacao: 2022-06-26 21:43:59
